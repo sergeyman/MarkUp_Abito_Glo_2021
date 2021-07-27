@@ -1,0 +1,64 @@
+https://www.youtube.com/watch?v=eXDA0ugDc5Y
+
+Fig/New/import/x.Fig
+Pages, Layers (Disign - export img, Inspect - css code chunks)
+
+index.html
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+
+Header x2 (navbar, search)
+    <header class="header">
+
+F: logo text/RB/Flatten                         // Text -> curves (NOT Text, no edit)
+F: logo layer/Design/Export/SVG -> /img
+
+<nav class="navbar-menu">
+                <ul class="menu">
+                    <li class="menu-item">
+a.button*2
+
+F: grid <Ctrl+G> ?; Home, Design/Layout grid (0)
+
+.header {
+    max-width: 1146px;
+    margin: auto;
+}
+
+.navbar
+.menu
+.menu-item
+
+Fonts: F/Main/Community/Search: "Font"/Plugins/Font-fascia <Install>
+    F/Plugins/F-fascia:  Roboto Regular, Bold
+fonts.google.com Cyrilic
+
+color: F/Home/Design/Selection colors
+
+seach-panel(input, btn(svg class="search-icon", span class="seach-button-text"))
+    O\ - F: Select/RB/Copy-Paste/Copy as SVG        // 0\ - icon seach
+    F: input/input-bg/Inspect: bcgr, 
+    F: input/Rectangle 2
+
+
+# Github public
+github.com          // dev. soc. network
+Kabinet
+<New>, Repo name ("Abito") public, Desc, Readme.md, <Создать Репо>
+# Abito - сайт объявлени
+##  Выполнил проект
+### Технологии .HTML, .css
+<Commit changes>
+/abito/Add files/Upload files (D'n'D)
+Commit changes: Создали каркас сайта и сверстали шапку
+Настройки/Pages/Source: None -> Main: link
+>> site/index.html      // need some time
+
+
+
+
+
+*Дерево БЭМ (Генератор HTML-дерева)
+ru.bem.info
+iБЭМ.js
+
